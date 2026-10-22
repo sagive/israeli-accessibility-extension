@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "BrandTactics Israeli Web Accessibility Auditor (IS 5568 AA)",
+  "version": "1.0.0",
+  "description": "Automated scanner and compliance validator for Israeli Web Accessibility Standard IS 5568 Level AA and WCAG 2.1.",
+  "author": "BrandTactics (Ben Avigdor 28, Tel Aviv-Yafo, Israel)",
+  "homepage_url": "https://brandtactics.co.il",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "BrandTactics Accessibility Audit"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
