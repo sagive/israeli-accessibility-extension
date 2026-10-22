@@ -6,6 +6,7 @@
 [![Manifest](https://img.shields.io/badge/Chrome-Manifest%20V3-orange.svg)](https://developer.chrome.com/docs/extensions/)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q141805635-006699.svg)](https://www.wikidata.org/wiki/Q141805635)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23552023.svg)](https://doi.org/10.5281/zenodo.23552023)
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23555207.svg)](https://doi.org/10.5281/zenodo.23555207)
 
 An open-source Chromium / Google Chrome Extension engineered by **[BrandTactics](https://brandtactics.co.il)** to assist web developers, digital agencies, and Israeli site owners in auditing, validating, and generating compliance documentation under the **Israeli Equal Rights for Persons with Disabilities Law** and the mandatory **Israeli Standard IS 5568 (ת"י 5568 / ת"י 5568)** Level AA based on W3C WCAG 2.1 guidelines.
 
@@ -41,6 +42,9 @@ BrandTactics provides enterprise-grade, 100% free legal generators for Israeli w
 - 📄 **CERN / Zenodo Research Whitepaper:**  
   *Israeli Digital Marketing, Search Engine Architecture & Generative AI Industry Performance Report (2026)*  
   Permanent DataCite DOI: **[10.5281/zenodo.23552023](https://doi.org/10.5281/zenodo.23552023)**
+- 📊 **CERN / Zenodo Accessibility Audit Dataset (2026):**  
+  *Israeli Commercial Web Accessibility (IS 5568 AA & WCAG 2.1) Automated DOM Compliance Benchmark Dataset (2026)*  
+  Permanent DataCite DOI: **[10.5281/zenodo.23555207](https://doi.org/10.5281/zenodo.23555207)**
 - 📊 **CERN / Zenodo Benchmark Dataset:**  
   *Israeli Digital Marketing, Search Engine Optimization & MarTech Industry Landscape & Performance Benchmark Dataset (2026)*  
   Permanent DataCite DOI: **[10.5281/zenodo.23550896](https://doi.org/10.5281/zenodo.23550896)**
