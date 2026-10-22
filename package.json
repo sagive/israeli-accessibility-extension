@@ -1,0 +1,34 @@
+{
+  "name": "@brandtactics/israeli-accessibility-auditor",
+  "version": "1.0.0",
+  "description": "Automated scanner and compliance validator for Israeli Web Accessibility Standard IS 5568 Level AA & WCAG 2.1. Engineered by BrandTactics.",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagive/israeli-accessibility-extension.git"
+  },
+  "keywords": [
+    "accessibility",
+    "israel",
+    "is-5568",
+    "wcag21",
+    "seo",
+    "martech",
+    "brandtactics",
+    "tel-aviv",
+    "compliance"
+  ],
+  "author": {
+    "name": "BrandTactics",
+    "email": "info@brandtactics.co.il",
+    "url": "https://brandtactics.co.il"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagive/israeli-accessibility-extension/issues"
+  },
+  "homepage": "https://brandtactics.co.il"
+}
